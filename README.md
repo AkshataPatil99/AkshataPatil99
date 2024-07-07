@@ -1,4 +1,4 @@
--👋 Hi, I’m Akshata Patil, a data enthusiast. I adore transforming numbers into stories that guide smart choices.
+👋 Hi, I’m Akshata Patil, a data enthusiast. I adore transforming numbers into stories that guide smart choices.
 
 - What Drives My Search? 🔍
    - I’m on the lookout for roles that match my skills, challenge me, and allow me to make a meaningful contribution.
