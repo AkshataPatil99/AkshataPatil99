@@ -11,10 +11,10 @@
   👋 Hi, I’m Akshata Patil, a data enthusiast. I adore transforming numbers into stories that guide smart choices.
 
 - What Drives My Search? 🔍
-I’m on the lookout for roles that match my skills, challenge me, and allow me to make a meaningful contribution.
+   - I’m on the lookout for roles that match my skills, challenge me, and allow me to make a meaningful contribution.
 
 - Why Consider Me? ❔
-Passion for practical data insights. I turn data into actionable insights using Excel, SQL, and Power BI.
+  - Passion for practical data insights. I turn data into actionable insights using Excel, SQL, and Power BI.
 
 - Proven Real-World Skills ✨
 I haven't walked the typical office path, but that hasn't stopped me from diving headfirst into real-world projects, proving what I can do in action.
